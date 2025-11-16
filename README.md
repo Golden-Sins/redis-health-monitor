@@ -1,8 +1,23 @@
-# Redis Health Monitor
+# 🔴 Redis Health Monitor
+
+> **A diagnostic tool I built while preparing for my Redis Technical Support Engineer interview**
+
+Built by **Valters Upenieks** | November 2025
+
+---
+
+## 🎯 Why I Built This
+
+I'm interviewing for a Technical Support Engineer role at Redis. To prepare, I wanted hands-on experience with Redis troubleshooting, so I built this monitoring tool over the weekend.
+
+**What it demonstrates:**
+- Understanding of Redis key metrics (memory, performance, replication)
+- Python scripting for system diagnostics
+- Linux/Bash proficiency
+- Support engineer mindset: proactive monitoring and clear warnings
 
 A diagnostic tool for Redis support engineers to quickly assess Redis instance health.
 
-**Author:** Valters Upenieks  
 **Created for:** Redis Technical Support Engineer Interview
 
 ## Features
@@ -96,7 +111,7 @@ Automatically warns about:
 
 ## Screenshots
 
-![Redis Health Monitor](screenshots/output.png)
+![Redis Health Monitor](output.png)
 
 ## Skills Demonstrated
 
