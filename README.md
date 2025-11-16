@@ -111,7 +111,7 @@ Automatically warns about:
 
 ## Screenshots
 
-![Redis Health Monitor](output.png)
+![Redis Health Monitor](screenshots/output.png)
 
 ## Skills Demonstrated
 
